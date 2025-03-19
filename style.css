@@ -1,0 +1,57 @@
+body{
+    font-family: Poppins;
+    width: 300px;
+    padding: 20px;
+    background: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bottom-top {
+    background: #d7d2d2;
+    padding: 10px;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px 10px 0 0;
+}
+
+.logo{
+    width: 200px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.bottom-text {
+    background: #444;
+    color: white;
+    padding: 10px;
+    border-radius: 0 0 10px 10px;
+    margin-top: 150px;
+    width: 300px;
+}
+
+.link-teknisi {
+    color: rgb(0, 0, 0); 
+    text-decoration: underline;
+}
+
+.link-create {
+    color: rgb(255, 255, 255);
+    text-decoration-thickness:; 
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
